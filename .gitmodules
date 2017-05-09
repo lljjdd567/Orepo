@@ -1,0 +1,27 @@
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/lljjdd567/repo1.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/lljjdd567/repo2.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/lljjdd567/repo3.git
+[submodule "repo4"]
+	path = repo4
+	url = https://github.com/lljjdd567/repo4.git
+[submodule "repo5"]
+	path = repo5
+	url = https://github.com/lljjdd567/repo5.git
+[submodule "repo6"]
+	path = repo6
+	url = https://github.com/lljjdd567/repo6.git
+[submodule "repo7"]
+	path = repo7
+	url = https://github.com/lljjdd567/repo7.git
+[submodule "repo8"]
+	path = repo8
+	url = https://github.com/lljjdd567/repo8.git
+[submodule "repo9"]
+	path = repo9
+	url = https://github.com/lljjdd567/repo9.git
